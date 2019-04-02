@@ -5,3 +5,4 @@ zzz
 lalalala
 test checkout
 test branch
+master test conflict
