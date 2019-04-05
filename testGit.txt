@@ -7,4 +7,4 @@ test checkout
 test branch
 master test conflict
 f1 test conflict
-
+add merge
