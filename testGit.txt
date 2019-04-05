@@ -8,8 +8,5 @@ test branch
 master test conflict
 f1 test conflict
 add merge x
-<<<<<<< HEAD
 master test stash changing...
-=======
 dev test stash working...
->>>>>>> dev
