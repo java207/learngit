@@ -8,3 +8,4 @@ test branch
 master test conflict
 f1 test conflict
 add merge x
+master test stash changing...
